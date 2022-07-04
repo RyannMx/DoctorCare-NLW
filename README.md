@@ -11,6 +11,10 @@
 * CSS.
 * JS (JavaScript).
 
+>## Como visualizar o projeto? 
+
+Basta clicar neste link: https://ryannmx.github.io/DoctorCare-NLW/
+
 ____________________________________________________________________________________________________________________________________
 
 # English version
@@ -25,3 +29,7 @@ ________________________________________________________________________________
 
 * CSS.
 * JS (JavaScript).
+
+>## How to view the project?
+
+Just click this link: https://ryannmx.github.io/DoctorCare-NLW/
