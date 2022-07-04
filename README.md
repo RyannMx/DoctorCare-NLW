@@ -4,7 +4,7 @@
 
 > Projeto desenvolvido com único proposito de aprendizegem.
 
-## Site fictisio "DoctorCare"
+### Site fictisio "DoctorCare"
 
 # Tecnologias usadas
 
@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 > Project developed with a single learning purpose.
 
-## Fictional site "DoctorCare"
+### Fictional site "DoctorCare"
 
 # Technologies used
 
